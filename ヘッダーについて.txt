@@ -1,0 +1,13 @@
+.common-header {
+               
+               position:relative;
+               background-color:black;
+               max-width:100%;
+               height:10em;
+
+           }
+
+ヘッダーの設定CSS↑
+
+imagesフォルダをpublicフォルダ内に設置
+comonHeaderフォルダをcomponentsフォルダ内に配置
