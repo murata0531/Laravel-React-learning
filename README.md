@@ -1,7 +1,7 @@
 # reanning
 React学習用
 
-compornentsフォルダをresources/jsの中にコピー
+testhub内のcompornentsフォルダをresources/jsの中にコピー
 vies/welcome.blade.phpはすでに各々のフォルダ内に作られているのでコードをカキカエレば良い
 
 ↑の作業が終わったら
