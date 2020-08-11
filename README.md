@@ -1,6 +1,8 @@
 # reanning
 React学習用
 
+php artisan key:generate
+
 testhub内のcompornentsフォルダをresources/jsの中にコピー
 vies/welcome.blade.phpはすでに各々のフォルダ内に作られているのでコードをカキカエレば良い
 
