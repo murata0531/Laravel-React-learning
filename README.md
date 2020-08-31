@@ -10,3 +10,8 @@ vies/welcome.blade.phpはすでに各々のフォルダ内に作られている�
 resources/js/app.js内にrequire('./components/Example');というコードを追加する
 
 require('ファイルパス');　とは、外部ファイルをインポートする構文
+
+
+Reactはコンポーネントベースなので、部品ごとにファイルを分けてここにメンテナンスができる
+
+また、デザインも容易に作成できる
