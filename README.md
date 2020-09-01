@@ -1,4 +1,4 @@
-# reanning
+# leanning
 React学習用
 
 Laravel + React開発のすすめ（React部分のみ抜粋）
