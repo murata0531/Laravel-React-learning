@@ -32,7 +32,7 @@ npm run dev
 
 __________________________________________________________________________________
 
-Larevl + Reactのディレクトリ構成
+Larevel + Reactのディレクトリ構成
 
 resources/js/内にreact関連のファイルやディレクトリが格納されている
 resources/views/内にLaravelのviewが格納されている
