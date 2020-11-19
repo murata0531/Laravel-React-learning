@@ -1,5 +1,5 @@
 # learning
-Larave+React学習用
+Laravel+React学習用
 
 Reactはコンポーネントベースなので、部品ごとにファイルを分けて個々にメンテナンスができる
 
