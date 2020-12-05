@@ -32,6 +32,8 @@ npm install && npm update
 npmをコンパイル
 npm run dev
 
+自動コンパイル
+npm run watch
 __________________________________________________________________________________
 
 Larevel + Reactのディレクトリ構成
