@@ -33,7 +33,12 @@ npmをコンパイル
 npm run dev
 
 自動コンパイル
+
 npm run watch
+
+npm run watchが効かないとき
+
+npm run watch-poll
 __________________________________________________________________________________
 
 Larevel + Reactのディレクトリ構成
