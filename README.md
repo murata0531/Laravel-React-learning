@@ -21,21 +21,31 @@ composer require laravel/ui
 
 php artisan ui react --auth
 
+--------------------------------------------
+
 composerをアップデートしておく
 
 composer update
+
+---------------------------------------------
 
 npm(node-js)をアップデート
 
 npm install && npm update
 
+----------------------------------------------
+
 npmをコンパイル
 
 npm run dev
 
+---------------------------------------------
+
 自動コンパイル
 
 npm run watch
+
+----------------------------------------------
 
 npm run watchが効かないとき
 
