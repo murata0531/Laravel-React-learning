@@ -15,7 +15,7 @@ Laravel7+React環境構築
 
 laravel7でプロジェクトを作成している前提で進める
 
-デフォルトではvueが有効になっているのでreactに変更 + laravel標準の認証機能も追加しておく
+デフォルトではvue.jsが有効になっているのでreactに変更 + laravel標準の認証機能も追加しておく
 
 composer require laravel/ui 
 
